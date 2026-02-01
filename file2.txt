@@ -1,2 +1,1 @@
-This is the file2 
-And this is the data writtne in it
+I insert this data into file2
